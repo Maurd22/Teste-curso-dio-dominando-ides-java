@@ -8,9 +8,9 @@ public class Calculadora {
 
         int a, b;
 
-        System.out.println("Digite o primeiro número:");
+        System.out.println("Digite o primeiro numero:");
         a = scan.nextInt();
-        System.out.println("Digite o segundo número:");
+        System.out.println("Digite o segundo numero:");
         b = scan.nextInt();
 
         int somar = somar(a, b);
